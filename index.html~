@@ -18,7 +18,7 @@
         document.getElementById("demo").innerHTML = "Hello World";
       }
       </script>
-
+	
       <!-- div class="image">
         <img src="red.jpg">
         <imgTwo src="orange.jpg">
@@ -27,6 +27,7 @@
         <imgFive src="blue.jpg">
         <imgSix src="purple.jpg">
       </div> -->
+      <img src="red.jpg"> 
       <button class="myFunction()">Explore</button>
 
       <div class="creatingNewDiv">
