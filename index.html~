@@ -19,14 +19,14 @@
       }
       </script>
       
-      <div class="image">
+      <!-- div class="image">
         <img src="red.jpg">
         <imgTwo src="orange.jpg">
         <imgThree src="yellow.jpg">
         <imgFour src="green.jpg">
         <imgFive src="blue.jpg">
         <imgSix src="purple.jpg">
-      </div> 
+      </div> -->
       <button class="myFunction()">Explore</button>
 
       <div class="creatingNewDiv">
